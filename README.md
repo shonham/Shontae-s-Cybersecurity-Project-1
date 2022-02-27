@@ -10,6 +10,8 @@ These files have been tested and used to generate a live ELK deployment on Azure
 
 [filebeat-playbook](https://github.com/shonham/Shontae-s-Cybersecurity-Project-1/blob/a70586b1eed01873d6c168f6c6f7267a0571bb90/ansible/filebeat-playbook.yml)
 
+[hosts](https://github.com/shonham/Shontae-s-Cybersecurity-Project-1/blob/ae948cf639794aa9497d8730318f2b50798dcdd8/ansible/hosts.yml)
+
 This document contains the following details:
 - Description of the Topologu
 - Access Policies
