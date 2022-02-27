@@ -14,6 +14,10 @@ These files have been tested and used to generate a live ELK deployment on Azure
 
 [metric-playbook](https://github.com/shonham/Shontae-s-Cybersecurity-Project-1/blob/ae948cf639794aa9497d8730318f2b50798dcdd8/ansible/metric-playbook.yml)
 
+[pentest](https://github.com/shonham/Shontae-s-Cybersecurity-Project-1/blob/fce05cf5ebd2e7182719ca0a069910dc37ccf4d8/ansible/pentest.yml)
+
+
+
 
 
 This document contains the following details:
