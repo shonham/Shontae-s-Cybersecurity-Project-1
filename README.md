@@ -2,11 +2,23 @@
 
 The files in this repository were used to configure the network depicted below.
 
-![TODO: Update the path with the name of your diagram](Images/diagram_filename.png)
+![Network diagram](https://github.com/shonham/Shontae-s-Cybersecurity-Project-1/blob/8e67b9f1d26e72db8c7ba8ac17c53083eea6f9b5/diagrams/Network%20diagram.png)
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the _____ file may be used to install only certain pieces of it, such as Filebeat.
 
-  - _TODO: Enter the playbook file._
+  [elk-playbook](https://github.com/shonham/Shontae-s-Cybersecurity-Project-1/blob/a7aa16cf635a87bcdcdc3475a98223c9344a9578/ansible/elk-playbook.yml)
+
+[filebeat-playbook](https://github.com/shonham/Shontae-s-Cybersecurity-Project-1/blob/a70586b1eed01873d6c168f6c6f7267a0571bb90/ansible/filebeat-playbook.yml)
+
+[hosts](https://github.com/shonham/Shontae-s-Cybersecurity-Project-1/blob/ae948cf639794aa9497d8730318f2b50798dcdd8/ansible/hosts.yml)
+
+[metric-playbook](https://github.com/shonham/Shontae-s-Cybersecurity-Project-1/blob/ae948cf639794aa9497d8730318f2b50798dcdd8/ansible/metric-playbook.yml)
+
+[pentest](https://github.com/shonham/Shontae-s-Cybersecurity-Project-1/blob/fce05cf5ebd2e7182719ca0a069910dc37ccf4d8/ansible/pentest.yml)
+
+
+
+
 
 This document contains the following details:
 - Description of the Topologu
