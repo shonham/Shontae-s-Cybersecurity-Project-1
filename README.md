@@ -126,3 +126,4 @@ Which URL do you navigate to in order to check that the ELK server is running?
 -http://40.78.3.115:5601/app/kibana
 
 _As a **Bonus**, provide the specific commands the user will need to run to download the playbook, update the files, etc._
+![Ansible-Playbook_NAME_OF_PLAYBOOK](https://github.com/shonham/Shontae-s-Cybersecurity-Project-1/blob/b2a066b6d60976971ca5962ce6437c457b3a3711/diagrams/Ansible-Playbook_NAME_OF_PLAYBOOK.png)
