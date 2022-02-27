@@ -12,6 +12,10 @@ These files have been tested and used to generate a live ELK deployment on Azure
 
 [hosts](https://github.com/shonham/Shontae-s-Cybersecurity-Project-1/blob/ae948cf639794aa9497d8730318f2b50798dcdd8/ansible/hosts.yml)
 
+[metric-playbook](https://github.com/shonham/Shontae-s-Cybersecurity-Project-1/blob/ae948cf639794aa9497d8730318f2b50798dcdd8/ansible/metric-playbook.yml)
+
+
+
 This document contains the following details:
 - Description of the Topologu
 - Access Policies
