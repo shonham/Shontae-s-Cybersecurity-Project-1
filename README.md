@@ -8,6 +8,7 @@ These files have been tested and used to generate a live ELK deployment on Azure
 
   [elk-playbook](https://github.com/shonham/Shontae-s-Cybersecurity-Project-1/blob/a7aa16cf635a87bcdcdc3475a98223c9344a9578/ansible/elk-playbook.yml)
 
+[filebeat-playbook](https://github.com/shonham/Shontae-s-Cybersecurity-Project-1/blob/a70586b1eed01873d6c168f6c6f7267a0571bb90/ansible/filebeat-playbook.yml)
 
 This document contains the following details:
 - Description of the Topologu
