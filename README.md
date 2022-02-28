@@ -38,14 +38,14 @@ Load balancing ensures that the application will be highly available, in additio
 - By shifting traffic, load balancers protect the system against DDoS attacks.
 - 
 - What is the advantage of a jump box?_
-- The advantage of a jump box is to give secure access to such resources via SSH and Private Pre Shared key
+- A jump box has the advantage of providing secure access to such resources via SSH and a private pre-shared key.
 
 Integrating an ELK server allows users to easily monitor the vulnerable VMs for changes to the data and system logs
 - What does Filebeat watch for?
-- -Filebeat forwards and centralizes log data.  Filebeat monitors the log files or locations that you specify collects log events and forwards them either to Elasticsearch or Logstash for indexing
+- -Filebeat consolidates and sends log data. Filebeat collects log events from the log files or places you choose and sends them to Elasticsearch or Logstash for indexing.
 - 
 - What does Metricbeat record?
-- -Metricbeat takes the metrics and statistics that it collects and ships them to the output that you specify, such as Elasticsearch of Logstash.  Metricbeat helps you monitor your servers by collecting metrics from the systme and services running on the server, such as Apache
+- -Metricbeat collects metrics and data and sends them to the destination you select, such as Elasticsearch or Logstash. Metricbeat collects information from the system and services operating on the server, such as Apache, to help you manage your servers.
 
 The configuration details of each machine may be found below.
 _Note: Use the [Markdown Table Generator](http://www.tablesgenerator.com/markdown_tables) to add/remove values from the table_.
@@ -82,7 +82,8 @@ A summary of the access policies in place can be found in the table below.
 ### Elk Configuration
 
 Ansible was used to automate configuration of the ELK machine. No configuration was performed manually, which is advantageous because...
-- _TODO: What is the main advantage of automating configuration with Ansible?_
+What is the main advantage of automating configuration with Ansible?
+- Configuration management, single source for application deployment
 
 The playbook implements the following tasks:
 - In 3-5 bullets, explain the steps of the ELK installation play. E.g., install Docker; download image; etc._
