@@ -128,3 +128,13 @@ Which URL do you navigate to in order to check that the ELK server is running?
 
 _As a **Bonus**, provide the specific commands the user will need to run to download the playbook, update the files, etc._
 ![Ansible-Playbook_NAME_OF_PLAYBOOK](https://github.com/shonham/Shontae-s-Cybersecurity-Project-1/blob/b2a066b6d60976971ca5962ce6437c457b3a3711/diagrams/Ansible-Playbook_NAME_OF_PLAYBOOK.png)
+
+![Ansible-Playbook_NAME_OF_PLAYBOOK]
+ssh azureuser@40.113.205.32
+sudo docker container list -a
+sudo docker start (name)
+sudo docker attach (name)
+cd /etc/ansible
+ls
+nano metric-playbook.yml
+
