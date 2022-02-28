@@ -35,7 +35,7 @@ The main purpose of this network is to expose a load-balanced and monitored inst
 
 Load balancing ensures that the application will be highly available, in addition to restricting access to the network.
 - What aspect of security do load balancers protect? 
-- Load balancers protect the system from DDoS attacks by shiftinf traffic
+- By shifting traffic, load balancers protect the system against DDoS attacks.
 - 
 - What is the advantage of a jump box?_
 - The advantage of a jump box is to give secure access to such resources via SSH and Private Pre Shared key
